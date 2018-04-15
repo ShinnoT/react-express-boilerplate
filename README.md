@@ -8,13 +8,11 @@ This is a simple basic boilerplate to have a full-stack web app boiler plate wit
 
 * backend and frontend linked
 * react-router-dom for client side routing included
-* scss integration so you can write sexy tyle with scss!
+* scss integration so you can write sexy style with scss!
 
 ## Get started
 
-* Make sure to have concurrently and nodemon installed globally. If you don't do so by running:
-  `npm i -g concurrently`
-  `npm i -g nodemon`
+* Make sure to have concurrently and nodemon installed globally. If you don't do so by running: `npm i -g concurrently` and `npm i -g nodemon`
 
 * clone this repo by running `git clone git@github.com:ShinnoT/node-chat-app.git your-app-name`
 * then `cd your-app-name`
