@@ -14,7 +14,7 @@ This is a simple basic boilerplate to have a full-stack web app boiler plate wit
 
 * Make sure to have concurrently and nodemon installed globally. If you don't do so by running: `npm i -g concurrently` and `npm i -g nodemon`
 
-* clone this repo by running `git clone git@github.com:ShinnoT/node-chat-app.git your-app-name`
+* clone this repo by running `git clone git@github.com:ShinnoT/react-express-boilerplate.git your-app-name`
 * then `cd your-app-name`
 * then install all the dependencies by running `npm install` both in root folder and client folder
 
