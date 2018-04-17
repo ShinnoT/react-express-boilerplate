@@ -12,7 +12,7 @@ This is a simple basic boilerplate to have a full-stack web app boiler plate wit
 
 ## Get started
 
-* Make sure to have concurrently and nodemon installed globally. If you don't do so by running: `npm i -g concurrently` and `npm i -g nodemon`
+* Make sure to have concurrently, create-react-app, nodemon installed globally. If you don't do so by running: `npm i -g concurrently create-react-app nodemon`
 
 * clone this repo by running `git clone git@github.com:ShinnoT/react-express-boilerplate.git your-app-name`
 * then `cd your-app-name`
